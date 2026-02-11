@@ -1,37 +1,82 @@
-# Radwimps – スパークル (movie ver.)
+# 亜咲花 – Seize The Day
 
-> **歌詞登録ステータス：プレーン歌詞のみ**
+> **歌詞登録ステータス：同期歌詞あり**
 
-```
-まだこの世界は 僕を飼いならしてたいみたいだ
-望み通りいいだろう 美しくもがくよ
-互いの砂時計 眺めながらキスしようよ
-「さよなら」から一番 遠い 場所で待ち合わせしよう
-
-辞書にある言葉で 出来上がった世界を憎んだ
-万華鏡の中で 八月のある朝
-君は僕の前で ハニかんでは澄ましてみせた
-この世界の教科書のような笑顔で
-
-ついに時はきた 昨日までは序章の序章で
-飛ばし読みでいいから ここからが僕だよ
-経験と知識と カビの生えかかった勇気をもって
-いまだかつてないスピードで 君のもとへダイブを
-
-まどろみの中で 生温かいコーラに
-ここでないどこかを 夢見たよ
-教室の窓の外に
-電車に揺られ 運ばれる朝に
-
-愛し方さえも 君の匂いがした
-歩き方さえも その笑い方がした
-いつか消えてなくなる 君のすべてを
-この眼に焼き付けておくことは
-もう権利なんかじゃない 義務だと思うんだ
-
-運命だとか未来とかって 言葉がどれだけ手を
-伸ばそうと届かない 場所で僕ら恋をする
-時計の針も二人を 横目に見ながら進む
-そんな世界を二人で 一生 いや、何生でも
-生き抜いてゆこう
+```lrc
+[00:09.79] (So, life is wonder)
+[00:13.67] (It's precious time for us, ah)
+[00:18.04] (Yes, I'm so happy)
+[00:20.36] (Shiny...)
+[00:25.36] 
+[00:24.15] どこにいたってその気持ち次第で
+[00:28.44] 見つけられる little bits of happiness
+[00:32.10] 恐れないで その"はじめて"で
+[00:36.66] 世界は広がる
+[00:39.66] 
+[00:39.71] (Sea breeze) 風がかがやき運んで
+[00:43.87] (Sea breeze) 今日をやさしくdecorate
+[00:47.93] (Sea breeze) 夢を見るには遅くない
+[00:53.18] (It's time to go)
+[01:01.68] 
+[00:54.22] Just always smile and seize the day (Just seize the day)
+[00:58.65] ささやかな決意 (Just seize the day)
+[01:01.22] この胸の中に light up now
+[01:04.01] Always, seize the day (Just seize the day)
+[01:06.86] 想像以上に (Just seize the day)
+[01:08.56] 未来は明るく騒がしい
+[01:11.86] 進もう ときめきが呼ぶほうへ
+[01:17.31] Sunrise is waiting for us
+[01:29.81] 
+[01:19.88] (So, life is wonder)
+[01:23.92] (It's precious time for us, ah)
+[01:28.20] (Yes, I'm so happy)
+[01:30.14] (Shiny...)
+[01:35.14] 
+[01:34.82] 背伸びをちょっと繰り返す度に
+[01:38.97] Take a step forward ココロも前へ
+[01:42.69] "さびしさ"だってスパイスになって
+[01:47.01] 景色を彩る
+[01:49.51] 
+[01:50.72] (Sea breeze) 胸を巡るしあわせは
+[01:54.42] (Sea breeze) 日常から生まれて
+[01:58.63] (Sea breeze) きらめく今を繋ぐよ
+[02:02.30] (It's time to go)
+[02:10.80] 
+[02:05.60] Just always smile and seize the day (Just seize the day)
+[02:09.27] "あこがれ"はいつも (Just seize the day)
+[02:11.57] 気持ち強くする
+[02:13.15] Feel my light
+[02:14.31] Always, seize the day (Just seize the day)
+[02:17.17] この広い空に (Just seize the day)
+[02:18.82] 近道はないけど
+[02:22.02] ゆっくり歩こう ときめきが待つ場所へ
+[02:28.34] Sunrise is waiting for us
+[02:40.84] 
+[02:33.15] Piece by piece
+[02:36.11] Oh yeah, oh yeah
+[02:38.66] Tu-ru-tu-tu-ru-tu
+[02:41.78] Tu-ru-tu-tu-ru-tu
+[02:44.53] Tu-ru-tu-tu-ru-tu
+[02:53.03] 
+[03:02.56] Just always smile and seize the day
+[03:06.15] 時を追うごとに
+[03:08.19] 夢中になっていくnever stop
+[03:11.22] Always, seize the day
+[03:14.46] 書きかけのメモにもう書ききれない
+[03:18.27] My dream
+[03:22.27] 
+[03:19.56] Smile and seize the day (Just seize the day)
+[03:21.87] ささやかな決意 (Just seize the day)
+[03:24.20] この胸の中に light up now
+[03:27.18] Always, seize the day (Just seize the day)
+[03:29.54] 想像以上に (Just seize the day)
+[03:31.91] 未来は明るく騒がしい
+[03:34.78] 進もう ときめきが呼ぶほうへ
+[03:40.75] Sunrise is waiting for us
+[03:53.25] 
+[03:44.02] (So, life is wonder)
+[03:46.00] Piece by piece
+[03:47.86] (It's precious time for us, ah)
+[03:51.72] Tu-ru-tu-tu-ru-tu(Yes, I'm so happy)
+[03:54.78] Yeah-heh
 ```
